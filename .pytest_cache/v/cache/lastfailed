@@ -1,0 +1,7 @@
+{
+  "srv.py::test_answer": true,
+  "srv.py::test_answer1": true,
+  "srv.py::test_answer2": true,
+  "teste.py::test_answer1": true,
+  "teste.py::test_answer2": true
+}

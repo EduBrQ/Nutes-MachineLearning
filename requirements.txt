@@ -1,0 +1,10 @@
+numpy
+flask
+sklearn
+scipy
+scikit-image
+requests
+jupyter
+pandas
+matplotlib
+seaborn
